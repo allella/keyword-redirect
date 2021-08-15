@@ -35,3 +35,8 @@
 .mt-5 {
   margin-top: 50px;
 }
+
+td {
+  max-width: 500px;
+  overflow: auto;
+}
